@@ -55,5 +55,5 @@ penjumlah berulang hingga menemukan batas hingga 100, jika sudah 100 maka
     print t
     jika n = 05 maka printnya 145
 
-Screenshot :
+Screenshot :</br>
 ![alt text](https://raw.githubusercontent.com/arkyana/UTS_Algoritma/master/soal2/2.png)
