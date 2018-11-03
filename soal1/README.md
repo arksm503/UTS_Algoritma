@@ -48,5 +48,5 @@
         Jika salah, tidak perlu ada perulangan, dengan arti x dan y nilainya sama
             maka print x
 
-Screenshto :
+Screenshot :
 ![alt text](https://raw.githubusercontent.com/arkyana/UTS_Algoritma/master/soal1/1.png)
